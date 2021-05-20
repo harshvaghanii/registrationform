@@ -1,0 +1,51 @@
+body {
+    background-color: #f2f6ff;
+    margin: 0;
+}
+
+form {
+    border: 1px solid #ccc;
+    width: 700px;
+    margin: auto;
+    text-align: center;
+    background-color: white;
+}
+
+#form-heading {
+    font-size: 32px;
+    padding-top: 56px;
+    padding-bottom: 32px;
+}
+
+.logos {
+    width: 50px;
+    height: 50px;
+    padding: 16px 32px;
+}
+
+.logo-section {
+    background-color: #f2f6ff;
+}
+
+.input-fields-container {
+    padding: 80px 80px 40px;
+}
+
+.input-element {
+    font-size: 18px;
+    padding-bottom: 12px;
+    margin-bottom: 36px;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    width: 100%;
+    outline: none;
+}
+
+#register-button {
+    background-color: #0056ff;
+    padding: 12px 24px;
+    margin-bottom: 8px;
+    font-size: 18px;
+    color: white;
+    border: none;
+}
